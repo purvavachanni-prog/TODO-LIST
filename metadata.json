@@ -1,0 +1,6 @@
+{
+  "name": "FocusList",
+  "description": "An airy, Pinterest-inspired Weekly To-Do Dashboard with Supabase sync, pastel day columns, theme swatches, and live reminder notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
